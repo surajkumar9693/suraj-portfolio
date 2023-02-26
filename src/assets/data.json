@@ -1,0 +1,47 @@
+{
+  "projects": [
+    {
+      "date": "17/10/2022",
+      "title": "Shoping CART",
+      "description": "",
+      "url": "https://github.com/surajkumar9693/Shoping-Cart",
+      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+    },
+    {
+      "date": "17/10/2022",
+      "title": "Books_management",
+      "description": "",
+      "url": "https://github.com/surajkumar9693/Book-Managment",
+      "imgSrc": "https://static8.depositphotos.com/1032932/912/i/600/depositphotos_9121156-stock-photo-library.jpg"
+    },
+    {
+      "date": "17/10/2022",
+      "title": "Url Shortner",
+      "description": "",
+      "url": "https://github.com/surajkumar9693/Url-shortner",
+      "imgSrc": "https://images.ctfassets.net/lzny33ho1g45/T5qqQQVznbZaNyxmHybDT/b76e0ff25a495e00647fa9fa6193a3c2/best-url-shorteners-00-hero.png"
+    },
+    {
+      "date": "17/10/2022",
+      "title": "Open To Intern",
+      "description": "",
+      "url": "https://github.com/surajkumar9693/intern-project",
+      "imgSrc": "https://thumbs.dreamstime.com/b/internship-appretenceship-management-trainee-concept-people-79091934.jpg"
+    },
+    {
+      "date": "17/10/2022",
+      "title": "Blogging_Site",
+      "description": "",
+      "url": "https://github.com/surajkumar9693/blog-project",
+      "imgSrc": "https://www.shutterstock.com/image-photo/blogging-blog-word-coder-coding-260nw-520314613.jpg"
+    },
+    {
+      "date": "17/10/2022",
+      "title": "Social media",
+      "description": "",
+      "url": "https://github.com/surajkumar9693/Social_media/tree/socail_media",
+      "imgSrc": "https://i.pinimg.com/originals/c5/39/d1/c539d195aa09d463ec863511f31ad6a3.jpg"
+    }
+
+  ]
+}
